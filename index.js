@@ -2,4 +2,4 @@ function capitalize(string) {
   return 'lol';
 }
 
-export { capitalize };
+module.export = capitalize;
