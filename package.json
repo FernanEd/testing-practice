@@ -4,7 +4,7 @@
   "description": "Practicing Test Driven Deployment with Jest",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest *.js --watch"
   },
   "repository": {
     "type": "git",
